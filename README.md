@@ -1,4 +1,4 @@
-# QML-based-Infrastructure-Crack-Detection
+# QML-Based-Infrastructure-Crack-Detection
 
 ## Product overview
 
